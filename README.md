@@ -7,3 +7,4 @@ May 2017
 ## Alias
 
 ## Useful Tools
+[Git Visualization Tool](http://git-school.github.io/visualizing-git/)
