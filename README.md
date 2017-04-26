@@ -1,1 +1,3 @@
-# I'm a README file!
+# Git Tips and Tricks
+Satellite, London
+May 2017
